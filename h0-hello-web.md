@@ -2,7 +2,7 @@
 Drink more H~2~O guys
 
 ## heading 2 motivational one
-~~im so sad i missed the first class~~
+~~im so sad i missed the first class~~ 
 i will be trying hard to keep on track now!
 
 
